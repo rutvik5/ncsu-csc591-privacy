@@ -1,0 +1,90 @@
+﻿Privacy Policy
+At Eggroll Games, we do not collect personal data of any kind. We do collect anonymous data to help make our games better. This privacy policy is designed to share what type of data we collect and how we use it. It was last updated on May 14th, 2018.
+
+
+General Privacy Questions
+Is personal data collected?
+No. We do not collect data that personally identifies you or your devices.
+
+
+Is anonymous data collected?
+Yes. We use a third party service called Flurry Analytics (see Third Party Services below) to collect anonymous data such as:
+
+
+How often each level is played
+How long users play each level
+Which levels are played the most
+Which levels are played the least
+Did the user open the “for parents” menu
+How is the anonymous data used?
+We occasionally review the data to see if we can make our apps better. For example, we may make the most-played levels easier to access or examine the least-played levels to see what we can do to make them more engaging. This information is for internal use only and is not shared or sold.
+
+
+ 
+
+
+Cookies
+As is the case with many websites, we use cookies to operationally deliver our services. Our service provider, Cloudflare (see Third Party Services below) sets a cookie “_cfduid” and maintains DNS records held at Cloudflare enabling us to provide a secure connection. They set this cookie to identify your device as trusted. For more information visit:
+https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-
+
+
+ 
+
+
+Third Party Services
+Flurry Analytics
+For collecting anonymous data to make our apps better, we use Flurry, a GDPR compliant analytics service.
+
+
+If you have questions or requests regarding Flurry data, you may contact them via their privacy and data feedback form or mail them at:
+
+
+Oath
+Customer Care – Privacy Policy Issues
+701 First Avenue
+Sunnyvale, CA 94089
+
+
+You may review the Flurry privacy policy at https://developer.yahoo.com/analytics/.
+
+
+Cloudflare
+For our apps and website services, we use Cloudflare, a GDPR compliant cloud service, to process data necessary for general web functionality.
+
+
+If you have questions or requests regarding Cloudflare data, you may email them at privacy@cloudflare.com. You may also review their privacy policy at https://www.cloudflare.com/security-policy/.
+
+
+ 
+
+
+Children’s Privacy and Protection
+We do not collect data that personally identifies your children or the devices they use.
+
+
+ 
+
+
+Third Party Ads and Cross Promotion
+There are no third-party ads in our apps, but we do cross promote our other products.
+
+
+ 
+
+
+Parental Gate
+Cross promotion ads are only accessible by entering a code to bypass a parental gate. Parental settings and purchases are similarly locked to prevent children from changing settings, following links, or making purchases.
+
+
+ 
+
+
+Updating the Policy
+Eggroll Games may change or update our Privacy Policy at any time as we add new features, services, or as the law changes. The changes are effective upon posting. If this stuff is important to you, you should review the Privacy Policy from time to time.
+
+
+Contacting Us
+If you have questions or concerns, please contact us anytime at privacy@eggrollgames.com.
+
+
+The Privacy Policy was last updated on 5/14/2018.
