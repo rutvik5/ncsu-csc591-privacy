@@ -5,5 +5,5 @@ This repository contains python code related to various Privacy topics. The proj
  - Differential Privacy
  - Federated Learning
  - Private Information Retrieval
- - Anonymous internet browsing
+ - Anonymous internet browsing using the Tor browser
  - Design of effective privacy policies
